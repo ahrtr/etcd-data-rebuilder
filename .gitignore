@@ -1,0 +1,4 @@
+.idea
+etcd-data-rebuilder
+/bin
+/release
